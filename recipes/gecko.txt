@@ -1,5 +1,4 @@
 Audrey's Meatloaf
-<<<<<<< HEAD
 ---------------
 Servings: 8
 Time: 1 hour
@@ -10,17 +9,9 @@ Directions:
 
 1 tablespoon vegetable oil
 2. Pour milk over the bread slices. Allow it to soak in for several minutes.
-
 3. Knead until dough surface is smooth and elastic. Roll over in a greased bowl, and let stand until triple in size, about 2 1/2 to 3 hours.
-
-=======
---------------
-
-
-
 6 slices White Bread
 7. Lay bacon slices over the top, tucking them underneath the meatloaf.
 10 slices Thin/regular Bacon
 11. Slice and serve with remaining sauce. Serve with mashed potatoes. Yummy!
 12. REMOVE LID BEFORE you turn off heat, or else water will drip back onto bun surface and produce yellowish "blisters" on bun surfaces.
->>>>>>> 244327b6db1eb03e5706e0ff7fa3ad48d605a833
